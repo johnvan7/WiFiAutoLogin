@@ -1,0 +1,11 @@
+C:\Users\J7\Documents\Visual Studio 2017\Projects\WiFiAutoLogin\WiFiAutoLogin\bin\Release\WiFiAutoLogin.exe.config
+C:\Users\J7\Documents\Visual Studio 2017\Projects\WiFiAutoLogin\WiFiAutoLogin\bin\Release\WiFiAutoLogin.exe
+C:\Users\J7\Documents\Visual Studio 2017\Projects\WiFiAutoLogin\WiFiAutoLogin\bin\Release\WiFiAutoLogin.pdb
+C:\Users\J7\Documents\Visual Studio 2017\Projects\WiFiAutoLogin\WiFiAutoLogin\obj\Release\WiFiAutoLogin.csprojAssemblyReference.cache
+C:\Users\J7\Documents\Visual Studio 2017\Projects\WiFiAutoLogin\WiFiAutoLogin\obj\Release\WiFiAutoLogin.Form1.resources
+C:\Users\J7\Documents\Visual Studio 2017\Projects\WiFiAutoLogin\WiFiAutoLogin\obj\Release\WiFiAutoLogin.FormLogin.resources
+C:\Users\J7\Documents\Visual Studio 2017\Projects\WiFiAutoLogin\WiFiAutoLogin\obj\Release\WiFiAutoLogin.Properties.Resources.resources
+C:\Users\J7\Documents\Visual Studio 2017\Projects\WiFiAutoLogin\WiFiAutoLogin\obj\Release\WiFiAutoLogin.csproj.GenerateResource.cache
+C:\Users\J7\Documents\Visual Studio 2017\Projects\WiFiAutoLogin\WiFiAutoLogin\obj\Release\WiFiAutoLogin.csproj.CoreCompileInputs.cache
+C:\Users\J7\Documents\Visual Studio 2017\Projects\WiFiAutoLogin\WiFiAutoLogin\obj\Release\WiFiAutoLogin.exe
+C:\Users\J7\Documents\Visual Studio 2017\Projects\WiFiAutoLogin\WiFiAutoLogin\obj\Release\WiFiAutoLogin.pdb
